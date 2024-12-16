@@ -7,6 +7,11 @@ A pasta root contem o docker compose para lançar o projeto completo. Os reposit
 
 É possivel lançar os serviços de entidades, exercicios e autenticação diretamente, mas refira à .env_example na root para sabe o que precisa de colar em cada microsserviço.
 
+# Architecture
+
+![System architecture](../../assets/arqv2.png)
+
+
 # Systems Architecture and Integration class project
 __Master's in Software Engineering IPCA 24/25__
 
