@@ -14,7 +14,7 @@ A pasta root contem o docker compose para lançar o projeto completo. Os reposit
 
 
 # Systems Architecture and Integration class project
-__Master's in Software Engineering IPCA 24/25__
+__Master's in Computer Engineering IPCA 24/25__
 
 The requirements were to build the backend of a real application, in microservices architecture and clean architheture and to explore means of communication between services.
 
