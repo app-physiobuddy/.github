@@ -9,7 +9,7 @@ A pasta root contem o docker compose para lançar o projeto completo. Os reposit
 
 # Architecture
 
-![System architecture](https://drive.usercontent.google.com/download?id=1K5VnpWd0pTKfu1YP1z5kXTc3v7XVfBOe&export=view)
+![System architecture](https://drive.usercontent.google.com/download?id=1K5VnpWd0pTKfu1YP1z5kXTc3v7XVfBOe&export=view =350px)
 
 
 
