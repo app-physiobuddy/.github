@@ -20,7 +20,8 @@ You can launch the entity, exercise and authentication services directly, but re
 
 ## Architecture (first iteration) -> Systems Architecture and Integration
 
-<img src="https://drive.usercontent.google.com/download?id=1MGUxqFsmQbl4iMZhmjhtudlh6Ai92L-Q&export=view" width="400"/>
+<img src="https://drive.usercontent.google.com/download?id=1K5VnpWd0pTKfu1YP1z5kXTc3v7XVfBOe&export=view" width="400"/>
+
 
 ## Architecture (second iteration) -> Cloud Computing Project
 
