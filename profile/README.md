@@ -1,7 +1,7 @@
 # Projeto da aula Arquitetura e Integração de Sistemas, e Projeto de Computação na Cloud
 __Mestrado em Engenharia de informática IPCA 24/25__
 
-Os requisitos foram a construção da backend de uma aplicação real, na arquitetura de microsserviços e clean architheture e explorar meios de comunicação entre serviços.
+Os requisitos foram a construção da backend de uma aplicação real, cloud native, na arquitetura de microsserviços e com clean code; e explorar meios de comunicação entre serviços.
 
 A pasta root contem o docker compose para lançar o projeto completo. Os repositórios dos serviços devem ser clonados para a pasta onde clonar a root.
 
@@ -12,7 +12,7 @@ A pasta root contem o docker compose para lançar o projeto completo. Os reposit
 # Systems Architecture and Integration, and Cloud Computing Project classes project
 __Master's in Computer Engineering IPCA 24/25__
 
-The requirements were to build the backend of a real application, in microservices architecture and clean architheture and to explore means of communication between services.
+The requirements were to build the backend of a real application, cloud native in microservices architecture with clean code; and to explore means of communication between services.
 
 The root folder contains docker compose to launch the complete project. The service repositories must be cloned into the folder where you clone root.
 
